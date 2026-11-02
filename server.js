@@ -16,6 +16,8 @@ const CHARACTER_IDS = new Set([
   "miku",
   "cj",
   "neighbor",
+  "kim_jong_un",
+  "hitler",
   "tung_tung_sahur",
   "tralalero",
 ]);
